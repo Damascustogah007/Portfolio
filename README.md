@@ -6,29 +6,29 @@ He excels in various testing methodologies, including white, black, grey-box and
 
 Charles's ability to integrate testing seamlessly into the development process supports the creation of reliable and robust applications.
 
-# My experience 🏢
-AlayaCare-Resi | Montreal, Canada
-Automation QA Engineer (Cypress)
+# My experience 🏢  
+*AlayaCare-Resi* | Montreal, Canada  
+*Automation QA Engineer (Cypress)*  
 08/2022 - 08/2024
 
-Zwilling
-QA Engineer (Cypress)
+*Zwilling*
+*QA Engineer (Cypress)*
 11/2020 - 09/2022
 
-Igus | Cologne, Germany
-Automation QA Engineer (Playwright)
+*Igus* | Cologne, Germany
+*Automation QA Engineer (Playwright)*
 08/2020 - 07/2022
 
-Exlibris
-Automation QA Engineer (Selenium)
+*Exlibris*
+*Automation QA Engineer (Selenium)*
 07/2019 - 08/2020
 
-RizePoint
-QA Engineer (Playwright)
+*RizePoint*
+*QA Engineer (Playwright)*
 01/2019 - 07/2020
 
-Quizlet
-Automation QA Engineer (Cypress)
+*Quizlet*
+*Automation QA Engineer (Cypress)*
 01/2018 - 12/2019
 
 # Tools 🔧
