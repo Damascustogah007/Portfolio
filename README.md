@@ -31,7 +31,7 @@ Quizlet
 Automation QA Engineer (Cypress)
 01/2018 - 12/2019
 
-#Tools 🔧
+# Tools 🔧
 - Jira, Trello - project management
 - Confluence - storing informations and documents about project
 - qMetry - bug tracking
@@ -45,7 +45,7 @@ Automation QA Engineer (Cypress)
 - Pycharm - IDE for Python
 - Visual Studio Code - HTML, CSS, JavaScript
 
-#Skills 
+# Skills 
 Testing Frameworks:
 •	Cypress
 •	Playwright
@@ -58,27 +58,27 @@ Testing Frameworks:
 •	Pytest
 •	Mocha
 
-#Test Management & Collaboration Tools:
+# Test Management & Collaboration Tools:
 •	Jira
 •	QMetry
 •	Xray
 •	Azure DevOps
 
-#Programming & Markup Languages:
+# Programming & Markup Languages:
 •	HTML/CSS
 •	JavaScript
 •	Java
 •	Node.js
 •	Python
 
-#Version Control:
+# Version Control:
 •	Git
 •	GitHub
 
-#Database
+# Database
 •	SQL
 
-#Testing Types & Methods:
+# Testing Types & Methods:
 •	Manual testing
 •	Automation testing
 •	Functional testing
@@ -88,7 +88,7 @@ Testing Frameworks:
 •	Usability testing
 •	Accessibility testing (WCAG 2.1)
 
-#Soft skills 📁
+# Soft skills 📁
 •	Collaboration and Communication
 •	Critical thinking and Problem Solving
 •	Attention to Detail
