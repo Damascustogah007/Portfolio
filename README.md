@@ -1,6 +1,6 @@
 # Portfolio
 ### About me 👋
-Charles is a QA Engineer with six years of commercial experience in testing and test automation for web and desktop applications. Proficient in automation tools like Playwright, Selenium, Cypress, and WebDriverIO, he ensures software quality through comprehensive manual and automated testing approaches.
+Charles is a QA Engineer with seven years of commercial experience in testing and test automation for web and desktop applications. Proficient in automation tools like Playwright, Selenium, Cypress, and WebDriverIO, he ensures software quality through comprehensive manual and automated testing approaches.
 
 He excels in various testing methodologies, including white, black, grey-box and accessibility testing. His expertise in these areas enables him to thoroughly evaluate software from multiple perspectives, ensuring reliability and performance.
 
