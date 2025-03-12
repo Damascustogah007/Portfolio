@@ -103,22 +103,22 @@ Charles's ability to integrate testing seamlessly into the development process s
 *Udemy*  
 *Online Course in JavaScript*  
 Completed professional development in *JavaScript - The Complete Guide 2020 (Beginner + Advanced)*  
+[Certificate](https://drive.google.com/file/d/1M245WlOGrf11FUQwNzSwT70Nrq3ZwXts/view)
 
 *Udemy*  
 *Online Course in CSS*  
 CSS - The Complete Guide 2025 (incl. Flexbox, Grid & Sass)  
+[Certificate](https://drive.google.com/file/d/1HE_TxAmn4MoU5nOWpumHDHc1j_lXM0LM/view)
 
 *Udemy*  
 *Online Course in JavaScript*  
 JavaScript Essentials  
+[Certificate](https://drive.google.com/file/d/1fJsMvl-RwxSR3-JvT5wl6GJVDqexn4O3/view)
 
 *Udemy*  
 *Online Course in WebdriverIO*  
 WebdriverIO - Complete Beginner Course 2024
-
-**Udemy**
-**Online Course in webdriverIO**
-WebdriverIO  - Complete Beginner Course 2024
+[Certificate](https://drive.google.com/file/d/1oH1yVQwOOxYoUP_hYLP_ZlleqO4-EBml/view)
 
   
 *AmaliTech Training Academy* | Takoradi  
