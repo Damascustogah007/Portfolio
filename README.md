@@ -123,3 +123,10 @@ WebdriverIO - Complete Beginner Course 2024
   
 *AmaliTech Training Academy* | Takoradi  
 *Training in IT/Digital Skills*
+
+# Samples 🔬
+1. Quizlet (Cypress) [Github](https://github.com/Damascustogah007/Quizlet)
+
+2. [Selenium-Python-Pytest](https://github.com/Damascustogah007/Selenium-python-pytest-pom)
+
+3. [Cypress](https://github.com/Damascustogah007/Cypress)
