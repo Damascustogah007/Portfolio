@@ -11,25 +11,26 @@ Charles's ability to integrate testing seamlessly into the development process s
 *Automation QA Engineer (Cypress)*  
 08/2022 - 08/2024
 
-**Zwilling**
-**QA Engineer (Cypress)**
-11/2020 - 09/2022
+*Zwilling*  
+*QA Engineer (Cypress)*  
+11/2020 - 09/2022  
 
-**Igus** | Cologne, Germany
-**Automation QA Engineer (Playwright)**
-08/2020 - 07/2022
+*Igus* | Cologne, Germany  
+*Automation QA Engineer (Playwright)*  
+08/2020 - 07/2022  
 
-**Exlibris**
-**Automation QA Engineer (Selenium)**
-07/2019 - 08/2020
+*Exlibris*  
+*Automation QA Engineer (Selenium)*  
+07/2019 - 08/2020  
 
-**RizePoint**
-**QA Engineer (Playwright)**
-01/2019 - 07/2020
+*RizePoint*  
+*QA Engineer (Playwright)*  
+01/2019 - 07/2020  
 
-**Quizlet**
-**Automation QA Engineer (Cypress)**
+*Quizlet*  
+*Automation QA Engineer (Cypress)*  
 01/2018 - 12/2019
+
 
 # Tools 🔧
 - Jira, Trello - project management
