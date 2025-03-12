@@ -60,10 +60,10 @@ Charles's ability to integrate testing seamlessly into the development process s
 - Mocha
 
 ### Test Management & Collaboration Tools:
-•	Jira
-•	QMetry
-•	Xray
-•	Azure DevOps
+- Jira
+- QMetry
+- Xray
+- Azure DevOps
 
 ### Programming & Markup Languages:
 - HTML/CSS
