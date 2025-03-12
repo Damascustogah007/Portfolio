@@ -47,7 +47,7 @@ Charles's ability to integrate testing seamlessly into the development process s
 - Visual Studio Code - HTML, CSS, JavaScript
 
 # Skills 
-Testing Frameworks:
+### Testing Frameworks:
 - Cypress
 - Playwright
 - Selenium
@@ -59,27 +59,27 @@ Testing Frameworks:
 - Pytest
 - Mocha
 
-# Test Management & Collaboration Tools:
+### Test Management & Collaboration Tools:
 •	Jira
 •	QMetry
 •	Xray
 •	Azure DevOps
 
-# Programming & Markup Languages:
+### Programming & Markup Languages:
 - HTML/CSS
 - JavaScript
 - Java
 - Node.js
 - Python
 
-# Version Control:
+### Version Control:
 - Git
 - GitHub
 
-# Database
+### Database
 - SQL
 
-# Testing Types & Methods:
+### Testing Types & Methods:
 - Manual testing
 - Automation testing
 - Functional testing
@@ -89,10 +89,20 @@ Testing Frameworks:
 - Usability testing
 - Accessibility testing (WCAG 2.1)
 
-# Soft skills 📁
+### Soft skills 📁
 - Collaboration and Communication
 - Critical thinking and Problem Solving
 - Attention to Detail
 - Adaptability
 
+# Education and Training🎓  
 
+*Christ Apostolic University College* | Kumasi, Ghana  
+*Bachelor of Science in Information and Communication Technology*  
+
+*Udemy*  
+*Online Course in JavaScript*  
+• Completed professional development in *JavaScript - The Complete Guide 2020 (Beginner + Advanced)*  
+
+*AmaliTech Training Academy* | Takoradi  
+*Training in IT/Digital Skills*
