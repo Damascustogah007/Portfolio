@@ -47,16 +47,16 @@ Automation QA Engineer (Cypress)
 
 # Skills 
 Testing Frameworks:
-•	Cypress
-•	Playwright
-•	Selenium
-•	WebDriverIO
-•	Appium
-•	Postman
-•	Storyblok
-•	Storybook
-•	Pytest
-•	Mocha
+- Cypress
+- Playwright
+- Selenium
+- WebDriverIO
+- Appium
+- Postman
+- Storyblok
+- Storybook
+- Pytest
+- Mocha
 
 # Test Management & Collaboration Tools:
 •	Jira
@@ -65,33 +65,33 @@ Testing Frameworks:
 •	Azure DevOps
 
 # Programming & Markup Languages:
-•	HTML/CSS
-•	JavaScript
-•	Java
-•	Node.js
-•	Python
+- HTML/CSS
+- JavaScript
+- Java
+- Node.js
+- Python
 
 # Version Control:
-•	Git
-•	GitHub
+- Git
+- GitHub
 
 # Database
-•	SQL
+- SQL
 
 # Testing Types & Methods:
-•	Manual testing
-•	Automation testing
-•	Functional testing
-•	Non-functional testing
-•	Regression testing
-•	API testing
-•	Usability testing
-•	Accessibility testing (WCAG 2.1)
+- Manual testing
+- Automation testing
+- Functional testing
+- Non-functional testing
+- Regression testing
+- API testing
+- Usability testing
+- Accessibility testing (WCAG 2.1)
 
 # Soft skills 📁
-•	Collaboration and Communication
-•	Critical thinking and Problem Solving
-•	Attention to Detail
-•	Adaptability
+- Collaboration and Communication
+- Critical thinking and Problem Solving
+- Attention to Detail
+- Adaptability
 
 
